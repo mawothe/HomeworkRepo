@@ -1,0 +1,13 @@
+#navbarSupportedContent { 
+    float: right;
+}
+
+body {
+    padding: 20px;
+}
+table {
+    padding:50px;
+    width: 100px;
+    height: 400px;
+    outline-offset: -15px;
+}
